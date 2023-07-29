@@ -2,13 +2,13 @@ body{
 
     padding: 0;
     margin: 0;
-    background-color: #D5EDA2;
+    background-color: #ffffff;
 }
 .letra{
     text-align: center;
     font-family: Arial, sans-serif;
     font-size: 1.5rem;
-    color: #2c4001;
+    color: #0a0000;
     margin: 0 auto;
 }
 .conten{
@@ -32,8 +32,8 @@ body{
     max-width: 800px;
     
     max-height: max-content;
-    background-color: #C0E474;
-    border: 3px dashed rgb(19, 17, 17);
+    background-color: #ffffff;
+    border: 1px solid rgb(255, 254, 176);
     padding: 20px;
     flex-direction: column;
     margin: 3% auto;
@@ -50,7 +50,7 @@ body{
     justify-content: center;
     align-items: center;
  
-    background-color: #f38807;
+    background-color:#F4D60D;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
     border-bottom-left-radius: 30%;
@@ -71,7 +71,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;   
-    border-top: 10px solid #f38807;
+    border-top: 10px solid #F4D60D;
     margin: 0 15% 0 15%;
     position: relative;
 }
